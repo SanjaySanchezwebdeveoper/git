@@ -1,0 +1,11 @@
+{
+    "editor.defaultColorDecorators": true,
+    "editor.defaultFormatter": "sastan.twind-intellisense",
+    "scm.defaultViewMode": "tree",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.trimTrailingWhitespace": true
+}
