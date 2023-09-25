@@ -232,6 +232,8 @@ export default function Footer() {
                 © 2023 Copyright:
                 <a className="text-white" href="https://tailwind-elements.com/"
                 >Tailwind Elements</a>
+                <a className="text-white" href="https://tailwind-elements.com/"
+                >Tailwind Elements</a>
             </div>
         </footer>
     );
